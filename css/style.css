@@ -1,0 +1,22 @@
+@import url('https://fonts.googleapis.com/css2?family=Merriweather+Sans:ital,wght@1,600&display=swap');
+body{
+    font-family: 'Merriweather Sans', sans-serif;
+}
+.navber-bg-color{
+    background-color:rgb(255, 230, 200);
+}
+.card-rounded{
+    border-radius:30px;
+}
+.back-img{
+    height: 400px;
+    margin-top: 10px;
+}
+.footer-high{
+    height: 370px;
+    background-color: rgb(8, 8, 34);
+
+}
+.all-right{
+ margin-top: 100px;
+}
